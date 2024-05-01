@@ -26,7 +26,7 @@ project-sequences-Figure 3.
 _2- Import the sequences to MEGA- Molecular Evolutionary Genetic Analysis_
 - The version from the manuscript was MEGA 4.0
 - The current version that we used was MEGA 11
-  _3- The alignment was conducted by MUSCLE
-  4- To build the phylogenetic tree: Neighbour-joining (NJ) tree_
+  _3- The alignment was conducted by MUSCLE_
+  _4- To build the phylogenetic tree: Neighbour-joining (NJ) tree_
 
 **Summarization of replication of orignial results**
