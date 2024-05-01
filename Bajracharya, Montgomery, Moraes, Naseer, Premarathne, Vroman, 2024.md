@@ -10,7 +10,8 @@ Introduction to paper: "Cytochrome c oxidase subunit 1 barcode data of fish of t
 **Figure 3**
 Daniel Moraes procedure
 _Steps to get the sequences for Figure 3:_
-_1- Obtain the sequences for Figure 3: There were 14 sequences in Figure 3_
+- **_1- Obtain the sequences for Figure 3**:
+- There were 14 sequences in Figure 3_
 In the Supporting information from the manuscript, there is a file called
 “MEN_2989_sm_tS2.xls”
 - In this file was possible to obtain only 6 sequences at the column named “Genbank
@@ -23,10 +24,10 @@ https://www.ncbi.nlm.nih.gov/. For example, for Sample ID “NPPF1048” we ente
 for Sample ID BW-675, we entered “Argyrops spinifer BW-A675”
 - Then we saved the 14 sentences from FASTA format in a text file called “BCB 546 final
 project-sequences-Figure 3.
-_2- Import the sequences to MEGA- Molecular Evolutionary Genetic Analysis_
+- **_2- Import the sequences to MEGA- Molecular Evolutionary Genetic Analysis_**
 - The version from the manuscript was MEGA 4.0
 - The current version that we used was MEGA 11
-- _3- The alignment was conducted by MUSCLE_
-- _4- To build the phylogenetic tree: Neighbour-joining (NJ) tree_
+**- _3- The alignment was conducted by MUSCLE_**
+**- _4- To build the phylogenetic tree: Neighbour-joining (NJ) tree_**
 
 **Summarization of replication of orignial results**
