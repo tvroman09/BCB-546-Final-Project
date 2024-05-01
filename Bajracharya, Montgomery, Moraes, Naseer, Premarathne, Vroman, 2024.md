@@ -10,7 +10,7 @@ Introduction to paper: "Cytochrome c oxidase subunit 1 barcode data of fish of t
 **Figure 3**
 Daniel Moraes procedure
 _Steps to get the sequences for Figure 3:_
-- **_1- Obtain the sequences for Figure 3**:
+- **1- Obtain the sequences for Figure 3**:
 - There were 14 sequences in Figure 3_
 In the Supporting information from the manuscript, there is a file called
 “MEN_2989_sm_tS2.xls”
