@@ -1,4 +1,5 @@
-introduces the original paper, explains the technical details of your replication of analyses and summarizes your replication of the original results
+This document introduces the original paper, explains the technical details of your replication of analyses and summarizes your replication of the original results
+
 Introduction to paper: "Cytochrome c oxidase subunit 1 barcode data of fish of the Nayband National Park in the Persian Gulf and analysis using meta-data flag several cryptic species" 
 
 **Paper citation**: ASGHARIAN, H., SAHAFI, H.H., ARDALAN, A.A., SHEKARRIZ, S. and ELAHI, E. (2011), Cytochrome c oxidase subunit 1 barcode data of fish of the Nayband National Park in the Persian Gulf and analysis using meta-data flag several cryptic species. Molecular Ecology Resources, 11: 461-472. https://doi.org/10.1111/j.1755-0998.2011.02989.x
