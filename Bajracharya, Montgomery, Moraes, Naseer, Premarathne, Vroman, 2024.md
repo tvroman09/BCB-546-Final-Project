@@ -1,4 +1,4 @@
-This document introduces the original paper, explains the technical details of your replication of analyses and summarizes your replication of the original results
+
 
 Introduction to paper: "Cytochrome c oxidase subunit 1 barcode data of fish of the Nayband National Park in the Persian Gulf and analysis using meta-data flag several cryptic species" 
 
