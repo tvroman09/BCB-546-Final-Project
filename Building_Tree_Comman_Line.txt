@@ -1,0 +1,7 @@
+Creating the tree in command line
+
+mafft --auto "FASTA FILE" > "New alignment file" #creating a mafft alignment of fasta file sequences
+
+iqtree -s "alignment file" -m GTR #building a phylogenetic tree from the alignment file, output is a treefile
+
+Open file in FigTree and annotate using a TSV file, root, and export
