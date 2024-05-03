@@ -22,7 +22,7 @@ Num” by looking at the “Sample ID” described in the phylogenetic tree in F
 https://www.ncbi.nlm.nih.gov/. For example, for Sample ID “NPPF1048” we entered
 “HQ149794”.
 - For the 8 remaining sequences, we entered each Sample ID in gen Bank. For example,
-for Sample ID BW-675, we entered “Argyrops spinifer BW-A675”
+for Sample ID BW-A675, we entered “Argyrops spinifer BW-A675”
 - Then we saved the 14 sentences from FASTA format in a text file called “BCB 546 final
 project-sequences-Figure 3.
 - **_2- Import the sequences to MEGA- Molecular Evolutionary Genetic Analysis_**
