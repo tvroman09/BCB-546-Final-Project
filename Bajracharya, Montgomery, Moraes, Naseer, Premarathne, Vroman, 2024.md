@@ -16,24 +16,24 @@ Figure 2 Rabsa Naseer
 
 -Utilized public data base and searched for sequences by project name "NPPF"
         
--Downloaded data as a TSV file in order to obtain relevant metadata
+-        Downloaded data as a TSV file in order to obtain relevant metadata
 
-    -Renamed sequences to match Figure 2 taxa in Excel
+    -        Renamed sequences to match Figure 2 taxa in Excel
     
-        -Format = species_name|sampleid|family_name
+                -Format = species_name|sampleid|family_name
             -If the species_name was unavailable, the family_name was substituted, the paper did the same
-        -Saved as a FASTA file using Notepad++
-    For R tree
+                -Saved as a FASTA file using Notepad++
+       For R tree
         -Began with reading in sequences as DNA strings 
             -Biostrings package
-        -Aligned using multiple sequence alignment (msa) package/function
+            -Aligned using multiple sequence alignment (msa) package/function
             -Wrote alignment to new file
-        -Retrieved distance matrix from alignment file
+                -Retrieved distance matrix from alignment file
             -dist.hamming() function in phanghorn package
-        -Created and viewed neighbor joining tree based on matrix
+                -Created and viewed neighbor joining tree based on matrix
             -nj function in ape package
-    For Command Line tree
-        -Performed MAFFT alignment using FASTA file
+       For Command Line tree
+                -Performed MAFFT alignment using FASTA file
             -Used --auto option to automatically pick an alignment method based on data size
         -Created tree using iqtree
             -Used GTR model
