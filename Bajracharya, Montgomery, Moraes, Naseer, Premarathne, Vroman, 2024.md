@@ -12,7 +12,9 @@ Introduction to paper: "Cytochrome c oxidase subunit 1 barcode data of fish of t
 
 Figure 2 Rabsa Naseer
 -Obtained relevant data from BOLD SYSTEMS
+
         -Utilized public data base and searched for sequences by project name "NPPF"
+        
     -Downloaded data as a TSV file in order to obtain relevant metadata
     -Renamed sequences to match Figure 2 taxa in Excel
         -Format = species_name|sampleid|family_name
