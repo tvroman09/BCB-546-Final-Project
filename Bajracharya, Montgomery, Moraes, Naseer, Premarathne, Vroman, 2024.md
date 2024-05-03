@@ -8,6 +8,34 @@ Introduction to paper: "Cytochrome c oxidase subunit 1 barcode data of fish of t
 
 **Technical details of replication of analyses**
 
+**Figure 2**
+
+Figure 2 Rabsa Naseer
+    -Obtained relevant data from BOLD SYSTEMS
+        -Utilized public data base and searched for sequences by project name "NPPF"
+    -Downloaded data as a TSV file in order to obtain relevant metadata
+    -Renamed sequences to match Figure 2 taxa in Excel
+        -Format = species_name|sampleid|family_name
+            -If the species_name was unavailable, the family_name was substituted, the paper did the same
+        -Saved as a FASTA file using Notepad++
+    For R tree
+        -Began with reading in sequences as DNA strings 
+            -Biostrings package
+        -Aligned using multiple sequence alignment (msa) package/function
+            -Wrote alignment to new file
+        -Retrieved distance matrix from alignment file
+            -dist.hamming() function in phanghorn package
+        -Created and viewed neighbor joining tree based on matrix
+            -nj function in ape package
+    For Command Line tree
+        -Performed MAFFT alignment using FASTA file
+            -Used --auto option to automatically pick an alignment method based on data size
+        -Created tree using iqtree
+            -Used GTR model
+        -Viewed and modified tree in FigTree
+            -Swapped branches within clades in order to emulate Figure 2 results
+            -Highlighted relevant taxa
+
 **Figure 3**
 Daniel Moraes procedure
 _Steps to get the sequences for Figure 3:_
