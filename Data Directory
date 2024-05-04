@@ -9,5 +9,6 @@ How to access data:
 File Directory:
 Figure_2_Data.fasta: Figure 2 data used.
 Figure_4_Data.txt: Figure 4 data used. This contains data from 77 various files combined - as explained in File_4_Markdown.
-Figure_4_data_Filtered.txt: Figure 4 data used, filtered using specifications in File_4_Markdown based on data in Figure_4_Data.txt. 
+Figure_4_Data.xlsx: Figure 4 data in xlsx format. 
+filtered_combined.txt: Figure 4 data used, filtered using specifications in File_4_Markdown based on data in Figure_4_Data.txt. This file doesn't have a matching name because the file is so large, my computer freezes when I try to reopen to edit it. 
 
