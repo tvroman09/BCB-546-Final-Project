@@ -5,3 +5,9 @@ How to access data:
 - Type "NNPF" in "Enter search terms" bar
 - Click "Fasta" download next to "Sequences"
 - File named: fasta.fas is downloaded with data and ready to use
+
+File Directory:
+Figure_2_Data.fasta: Figure 2 data used.
+Figure_4_Data.txt: Figure 4 data used. This contains data from 77 various files combined - as explained in File_4_Markdown.
+Figure_4_data_Filtered.txt: Figure 4 data used, filtered using specifications in File_4_Markdown based on data in Figure_4_Data.txt. 
+
