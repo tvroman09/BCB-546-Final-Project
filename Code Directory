@@ -2,6 +2,7 @@ Figure_2_Building_Tree.R: Code in R for reproducing figure 2.
 Figure_2_CL.txt: Code in Command Line for reproducing figure 2.
 Figure_2_R_Tree.png: Figure 2 produced from R code.
 Figure_2_CL_Tree.pdf: Figure 2 produced from Command Line Code.
+Figure_2_BOLD.pdf: Figure 2 produced from BOLD software.
 
 Figure_4_Code.ipynb: Code in notebook format for reproducing figure 4.
 Figure_4_Markdown: Markdown code used for figure 4. 
