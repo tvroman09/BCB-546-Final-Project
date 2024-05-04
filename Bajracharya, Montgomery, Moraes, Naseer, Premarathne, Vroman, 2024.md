@@ -82,7 +82,7 @@ For Command Line tree
 
 # Figure 3
 
-# MECA
+# MEGA
 
 Steps to get the sequences for Figure 3:
 
